@@ -1,0 +1,35 @@
+github
+===============
+it is a clooud based system
+1) used to store code
+2) to share code
+3) host small website
+4) version control
+
+gitlab, bitbucket: this are same as github
+
+
+Git
+===============
+toll used to perform github operations
+
+Remote repository: storage space in github
+
+local repository: storage space in our system for github
+
+local storage: normal storage in our system
+
+
+github operations
+========================
+1) push: uploading code from local repo to remote repo
+2) clone: downloading the entire code from remote repo to local repo
+3) pull: downloading only the updated files/code
+
+How the operations are performing
+==================================
+
+steps:
+1) add code from local storage to staging area by (git add)
+2) copy code from staging area to local repo by (git commit)
+3) copy from local repo to remote repo by (git push) 
