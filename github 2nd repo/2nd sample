@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+    <title>GitHub</title>
+</head>
+
+<body>
+    <h1>2nd sample</h1>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quidem ipsum pariatur maiores quos ullam dolore iusto
+        saepe, doloribus inventore fugiat, iste magnam porro officiis, officia architecto repudiandae sequi nostrum
+        doloremque!Lorem
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis est vitae excepturi nostrum ratione
+        consequuntur molestiae labore laboriosam doloribus tenetur iure exercitationem eius, omnis recusandae quidem
+        repellat rerum nisi suscipit.</p>
+
+</body>
+
+</html>
