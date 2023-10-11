@@ -33,3 +33,47 @@ steps:
 1) add code from local storage to staging area by (git add)
 2) copy code from staging area to local repo by (git commit)
 3) copy from local repo to remote repo by (git push) 
+
+Requirements
+==================
+1) need an account
+2) git must be installed
+
+initial setup
+====================
+git config --global user.name "GIT USERNAME"
+git config --global user.email " EMAIL ID"
+
+commands for pushing the code initially
+===========================================
+// to initialize particular folder as git repository
+1) git init 
+
+//add origin
+2)git remote add origin github_repo_url
+
+// to list the files that need to be pushed (red in color)
+3) git status
+
+// to copy files from local storage to staginng area
+4) git add . 
+
+// to copy file from staging area to local repository
+5) git commit -m "message"
+
+// to copy files from local repository to remote repository
+6) git push origin master
+
+from second time onwards
+===========================
+
+step 3 to step 6
+
+to download full code
+========================
+git clone github_repo_url
+
+
+to download only changes
+==============================
+git pull origin master
